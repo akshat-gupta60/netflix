@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/akshat-gupta60/netflix/static/css/main.e81a364a.css",
-    "main.js": "/akshat-gupta60/netflix/static/js/main.f6e4530a.js",
-    "index.html": "/akshat-gupta60/netflix/index.html",
-    "main.e81a364a.css.map": "/akshat-gupta60/netflix/static/css/main.e81a364a.css.map",
-    "main.f6e4530a.js.map": "/akshat-gupta60/netflix/static/js/main.f6e4530a.js.map"
+    "main.css": "/deploynet/static/css/main.e81a364a.css",
+    "main.js": "/deploynet/static/js/main.f6e4530a.js",
+    "index.html": "/deploynet/index.html",
+    "main.e81a364a.css.map": "/deploynet/static/css/main.e81a364a.css.map",
+    "main.f6e4530a.js.map": "/deploynet/static/js/main.f6e4530a.js.map"
   },
   "entrypoints": [
     "static/css/main.e81a364a.css",
